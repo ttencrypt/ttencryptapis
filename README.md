@@ -15,5 +15,6 @@
  - Full source code on python and java
  - No cheating – api for testing before buying  
  - Compatible with the most recent version
+ - Api rental available
 
 Contact telegram https://t.me/yunpengv  
